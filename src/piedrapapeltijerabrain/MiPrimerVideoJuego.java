@@ -204,14 +204,15 @@ public class MiPrimerVideoJuego {
      * tijera.
      */
     public static void tijera() {
-        System.out.println("'''\n"
-                + " _______\n"
-                + "---' ____)____\n"
-                + " ______)\n"
-                + " __________)\n"
-                + " (____)\n"
-                + "---.__(___)\n"
-                + "'''");
+        System.out.println("""
+                           '''
+                            _______
+                           ---' ____)____
+                            ______)
+                            __________)
+                            (____)
+                           ---.__(___)
+                           '''""");
     }
 
     /**
