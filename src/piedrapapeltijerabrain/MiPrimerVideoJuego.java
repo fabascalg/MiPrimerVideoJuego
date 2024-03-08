@@ -197,6 +197,7 @@ public class MiPrimerVideoJuego {
          * por la IA en caso de haber fallos.
          */
         System.out.println("Tu tiempo final es de " + tiempoFinal + " segundos");
+        sc.close();
     }
 
     /**
